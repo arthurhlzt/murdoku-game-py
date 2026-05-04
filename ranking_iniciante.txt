@@ -1,0 +1,4 @@
+Nome - ARTHUR;
+Pontos - 94;
+Tempo - 21s;
+
